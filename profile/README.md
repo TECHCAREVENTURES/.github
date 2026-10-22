@@ -11,7 +11,7 @@ We help startups and enterprises build, modernize, and scale the technology behi
 
 [![Website](https://img.shields.io/badge/Explore_Our_Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techcareventures.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/company/techcareventures)
-[![Email](https://img.shields.io/badge/Discuss_Your_Project-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@techcareventures.com)
+[![Email](https://img.shields.io/badge/Discuss_Your_Project-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@techcareventures.com)
 
 **Built for business. Engineered for what comes next.**
 
@@ -210,12 +210,12 @@ or strengthening your cloud foundation, let's talk about what comes next.
 **For clients & partners** — Explore a project, integration, or technology partnership.<br>
 **For developers** — Share your work, discuss collaboration, or ask about opportunities.
 
-[![Start a Conversation](https://img.shields.io/badge/Start_a_Conversation-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@techcareventures.com)
+[![Start a Conversation](https://img.shields.io/badge/Start_a_Conversation-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@techcareventures.com)
 [![Discover TechCare Ventures](https://img.shields.io/badge/Discover_TechCare_Ventures-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://techcareventures.com)
 
 ### Contact
 
-[**Website**](https://techcareventures.com) · [**LinkedIn**](https://linkedin.com/company/techcareventures) · [**hello@techcareventures.com**](mailto:hello@techcareventures.com)
+[**Website**](https://techcareventures.com) · [**LinkedIn**](https://linkedin.com/company/techcareventures) · [**hi@techcareventures.com**](mailto:hi@techcareventures.com)
 
 ---
 
